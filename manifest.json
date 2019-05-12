@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Rasmus Pandekage",
+  "version": "0.1",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["palukage.js"]
+    }
+  ]
+}

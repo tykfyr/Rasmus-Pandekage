@@ -21,4 +21,4 @@ function replaceText (node) {
     node.nodeValue = value;
 }
 
-window.onload = findAndReplace();
+window.onload = findAndReplace;

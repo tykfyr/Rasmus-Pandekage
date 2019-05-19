@@ -1,5 +1,7 @@
 # Søg og erstat "Paludan" med "Klump"
 
+TILGÆNGELIG I CHROME WEBSTORE: <a href="https://chrome.google.com/webstore/detail/rasmus-pandekage/pfhcceonfnhnmmfgkeblckhfphmiiafi">Lige her</a>
+
 Rasmus Paludan = Rasmus Klump
 
 Hvis ordet "muslimer", indgår i sætningen bliver det erstattet med "pandekager".
